@@ -1,0 +1,81 @@
+已解析 1000个数据包
+已解析 2000个数据包
+已解析 3000个数据包
+已解析 4000个数据包
+已解析 5000个数据包
+已解析 6000个数据包
+已解析 7000个数据包
+已解析 8000个数据包
+已解析 9000个数据包
+已解析 10000个数据包
+total_packets:  9999
+total_retry:  690
+fc_ds: 0x01  count: 855   ratio:   8.55%
+  fc_type: 2     count: 802   ratio:   8.02%
+    fc_subtype: 8     count: 224   ratio:   2.24%
+    fc_subtype: 4     count: 183   ratio:   1.83%
+    fc_subtype: 12    count: 383   ratio:   3.83%
+
+
+fc_ds: 0x00  count: 8241  ratio:  82.42%
+  fc_type: 1     count: 7187  ratio:  71.88%
+    fc_subtype: 11    count: 1759  ratio:  17.59%
+    fc_subtype: 13    count: 868   ratio:   8.68%
+    fc_subtype: 12    count: 2250  ratio:  22.50%
+    fc_subtype: 9     count: 2289  ratio:  22.89%
+
+  fc_type: 0     count: 1030  ratio:  10.30%
+    fc_subtype: 8     count: 692   ratio:   6.92%
+    fc_subtype: 4     count: 99    ratio:   0.99%
+    fc_subtype: 5     count: 208   ratio:   2.08%
+    fc_subtype: 13    count: 17    ratio:   0.17%
+
+
+fc_ds: None  count: 108   ratio:   1.08%
+  fc_type: None  count: 83    ratio:   0.83%
+    fc_subtype: None  count: 83    ratio:   0.83%
+
+
+fc_ds: 0x02  count: 733   ratio:   7.33%
+  fc_type: 2     count: 684   ratio:   6.84%
+    fc_subtype: 8     count: 644   ratio:   6.44%
+
+
+fc_ds: 0x03  count: 62    ratio:   0.62%
+
+
+DA
+fc_ds: 0x00  count: 144   ratio:  20.87%
+
+fc_ds: 0x01  count: 357   ratio:  51.74%
+  bssid: a8:58:40:de:fa:b2 count: 259   ratio:  37.54%
+    da: a8:58:40:de:fa:b2 count: 253   ratio:  36.67%
+      fc_type: 2     count: 253   ratio:  36.67%
+        fc_subtype: 12    count: 222   ratio:  32.17%
+        fc_subtype: 4     count: 31    ratio:   4.49%
+
+
+
+
+fc_ds: 0x02  count: 158   ratio:  22.90%
+
+fc_ds: 0x03  count: 31    ratio:   4.49%
+
+
+SA
+fc_ds: 0x00  count: 144   ratio:  20.87%
+
+fc_ds: 0x01  count: 357   ratio:  51.74%
+  bssid: a8:58:40:de:fa:b2 count: 259   ratio:  37.54%
+    da: 72:76:86:7d:40:11 count: 121   ratio:  17.54%
+      fc_type: 2     count: 121   ratio:  17.54%
+        fc_subtype: 12    count: 121   ratio:  17.54%
+
+
+
+
+fc_ds: 0x02  count: 158   ratio:  22.90%
+
+fc_ds: 0x03  count: 31    ratio:   4.49%
+
+

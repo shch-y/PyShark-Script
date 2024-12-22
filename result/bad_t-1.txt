@@ -1,0 +1,257 @@
+
+['fc_type_subtype', 'fc', 'fc_version', 'fc_type', 'fc_subtype', 'flags', 'fc_ds', 'fc_tods', 'fc_fromds', 'fc_frag', 'fc_retry', 'fc_pwrmgt', 'fc_moredata', 'fc_protected', 'fc_order', 'duration', 'ra', 'ra_resolved', 'ra_oui', 'ra_oui_resolved', 'ra_lg', 'ra_ig', 'addr', 'addr_resolved', 'oui', 'oui_resolved', 'addr_lg', 'addr_ig', 'ta', 'ta_resolved', 'ta_oui', 'ta_oui_resolved', 'ta_lg', 'ta_ig', 'da', 'da_resolved', 'da_oui', 'da_oui_resolved', 'da_lg', 'da_ig', 'sa', 'sa_resolved', 'sa_oui', 'sa_oui_resolved', 'sa_lg', 'sa_ig', 'bssid', 'bssid_resolved', 'bssid_oui', 'bssid_oui_resolved', 'bssid_lg', 'bssid_ig', 'staa', 'staa_resolved', 'staa_oui', 'staa_oui_resolved', 'staa_lg', 'staa_ig', 'frag', 'seq', 'flags_str', 'qos', 'qos_tid', 'qos_priority', 'qos_bit4', 'qos_ack', 'qos_amsdupresent', 'qos_txop_dur_req']
+
+
+fc_ds: None  count: 3952  ratio:   1.05%
+  fc_type: None  count: 3102  ratio:   0.82%
+    fc_subtype: None  count: 3102  ratio:   0.82%
+ 
+  fc_type: 0x0000 count: 150   ratio:   0.04%
+    fc_subtype: None  count: 150   ratio:   0.04%
+ 
+  fc_type: 0x0002 count: 162   ratio:   0.04%
+    fc_subtype: 0x0007 count: 10    ratio:   0.00%
+    fc_subtype: 0x0004 count: 46    ratio:   0.01%
+    fc_subtype: 0x0003 count: 14    ratio:   0.00%
+    fc_subtype: 0x0006 count: 16    ratio:   0.00%
+    fc_subtype: 0x0002 count: 28    ratio:   0.01%
+    fc_subtype: 0x0005 count: 20    ratio:   0.01%
+    fc_subtype: 0x0001 count: 16    ratio:   0.00%
+    fc_subtype: 0x0000 count: 12    ratio:   0.00%
+ 
+  fc_type: 1     count: 40    ratio:   0.01%
+    fc_subtype: 6     count: 40    ratio:   0.01%
+ 
+  fc_type: 0x0004 count: 148   ratio:   0.04%
+    fc_subtype: None  count: 148   ratio:   0.04%
+ 
+  fc_type: 0x0006 count: 252   ratio:   0.07%
+    fc_subtype: None  count: 252   ratio:   0.07%
+ 
+  fc_type: 0x0001 count: 54    ratio:   0.01%
+    fc_subtype: 0x0001 count: 10    ratio:   0.00%
+    fc_subtype: 0x0000 count: 14    ratio:   0.00%
+    fc_subtype: 0x0002 count: 14    ratio:   0.00%
+    fc_subtype: 0x0005 count: 8     ratio:   0.00%
+    fc_subtype: 0x0007 count: 8     ratio:   0.00%
+ 
+  fc_type: 0x0005 count: 44    ratio:   0.01%
+    fc_subtype: None  count: 44    ratio:   0.01%
+ 
+fc_ds: 0x01  count: 17366 ratio:   4.61%
+  fc_type: 2     count: 16174 ratio:   4.30%
+    fc_subtype: 8     count: 6226  ratio:   1.65%
+    fc_subtype: 4     count: 4326  ratio:   1.15%
+    fc_subtype: 12    count: 5302  ratio:   1.41%
+    fc_subtype: 9     count: 28    ratio:   0.01%
+    fc_subtype: 10    count: 26    ratio:   0.01%
+    fc_subtype: 0     count: 32    ratio:   0.01%
+    fc_subtype: 5     count: 54    ratio:   0.01%
+    fc_subtype: 15    count: 12    ratio:   0.00%
+    fc_subtype: 11    count: 12    ratio:   0.00%
+    fc_subtype: 1     count: 24    ratio:   0.01%
+    fc_subtype: 3     count: 16    ratio:   0.00%
+    fc_subtype: 7     count: 30    ratio:   0.01%
+    fc_subtype: 6     count: 18    ratio:   0.00%
+    fc_subtype: 2     count: 38    ratio:   0.01%
+    fc_subtype: 14    count: 16    ratio:   0.00%
+    fc_subtype: 13    count: 14    ratio:   0.00%
+ 
+  fc_type: 1     count: 796   ratio:   0.21%
+    fc_subtype: 3     count: 80    ratio:   0.02%
+    fc_subtype: 5     count: 26    ratio:   0.01%
+    fc_subtype: 13    count: 106   ratio:   0.03%
+    fc_subtype: 4     count: 34    ratio:   0.01%
+    fc_subtype: 1     count: 78    ratio:   0.02%
+    fc_subtype: 12    count: 108   ratio:   0.03%
+    fc_subtype: 14    count: 18    ratio:   0.00%
+    fc_subtype: 11    count: 78    ratio:   0.02%
+    fc_subtype: 10    count: 46    ratio:   0.01%
+    fc_subtype: 0     count: 40    ratio:   0.01%
+    fc_subtype: 15    count: 36    ratio:   0.01%
+    fc_subtype: 8     count: 52    ratio:   0.01%
+    fc_subtype: 7     count: 12    ratio:   0.00%
+    fc_subtype: 9     count: 64    ratio:   0.02%
+    fc_subtype: 2     count: 18    ratio:   0.00%
+ 
+  fc_type: 0     count: 396   ratio:   0.11%
+    fc_subtype: 8     count: 26    ratio:   0.01%
+    fc_subtype: 12    count: 24    ratio:   0.01%
+    fc_subtype: 10    count: 26    ratio:   0.01%
+    fc_subtype: 5     count: 44    ratio:   0.01%
+    fc_subtype: 11    count: 16    ratio:   0.00%
+    fc_subtype: 14    count: 64    ratio:   0.02%
+    fc_subtype: 2     count: 16    ratio:   0.00%
+    fc_subtype: 13    count: 28    ratio:   0.01%
+    fc_subtype: 6     count: 20    ratio:   0.01%
+    fc_subtype: 4     count: 18    ratio:   0.00%
+    fc_subtype: 0     count: 24    ratio:   0.01%
+    fc_subtype: 15    count: 18    ratio:   0.00%
+    fc_subtype: 3     count: 14    ratio:   0.00%
+    fc_subtype: 7     count: 10    ratio:   0.00%
+    fc_subtype: 9     count: 32    ratio:   0.01%
+    fc_subtype: 1     count: 16    ratio:   0.00%
+
+fc_ds: 0x00  count: 316768 ratio:  84.12%
+  fc_type: 1     count: 286380 ratio:  76.05%
+    fc_subtype: 11    count: 72026 ratio:  19.13%
+    fc_subtype: 13    count: 30508 ratio:   8.10%
+    fc_subtype: 12    count: 86882 ratio:  23.07%
+    fc_subtype: 9     count: 90968 ratio:  24.16%
+    fc_subtype: 4     count: 38    ratio:   0.01%
+    fc_subtype: 15    count: 20    ratio:   0.01%
+    fc_subtype: 3     count: 66    ratio:   0.02%
+    fc_subtype: 8     count: 5654  ratio:   1.50%
+    fc_subtype: 0     count: 28    ratio:   0.01%
+    fc_subtype: 1     count: 32    ratio:   0.01%
+    fc_subtype: 5     count: 54    ratio:   0.01%
+    fc_subtype: 2     count: 20    ratio:   0.01%
+    fc_subtype: 14    count: 58    ratio:   0.02%
+    fc_subtype: 10    count: 16    ratio:   0.00%
+    fc_subtype: 7     count: 10    ratio:   0.00%
+ 
+  fc_type: 0     count: 29742 ratio:   7.90%
+    fc_subtype: 8     count: 22444 ratio:   5.96%
+    fc_subtype: 4     count: 1990  ratio:   0.53%
+    fc_subtype: 5     count: 4492  ratio:   1.19%
+    fc_subtype: 2     count: 20    ratio:   0.01%
+    fc_subtype: 11    count: 52    ratio:   0.01%
+    fc_subtype: 13    count: 422   ratio:   0.11%
+    fc_subtype: 14    count: 8     ratio:   0.00%
+    fc_subtype: 6     count: 34    ratio:   0.01%
+    fc_subtype: 12    count: 48    ratio:   0.01%
+    fc_subtype: 9     count: 38    ratio:   0.01%
+    fc_subtype: 3     count: 24    ratio:   0.01%
+    fc_subtype: 7     count: 18    ratio:   0.00%
+    fc_subtype: 10    count: 28    ratio:   0.01%
+    fc_subtype: 1     count: 24    ratio:   0.01%
+    fc_subtype: 0     count: 80    ratio:   0.02%
+    fc_subtype: 15    count: 20    ratio:   0.01%
+ 
+  fc_type: 2     count: 646   ratio:   0.17%
+    fc_subtype: 5     count: 42    ratio:   0.01%
+    fc_subtype: 14    count: 52    ratio:   0.01%
+    fc_subtype: 2     count: 82    ratio:   0.02%
+    fc_subtype: 8     count: 80    ratio:   0.02%
+    fc_subtype: 0     count: 40    ratio:   0.01%
+    fc_subtype: 4     count: 20    ratio:   0.01%
+    fc_subtype: 7     count: 196   ratio:   0.05%
+    fc_subtype: 6     count: 20    ratio:   0.01%
+    fc_subtype: 3     count: 28    ratio:   0.01%
+    fc_subtype: 12    count: 16    ratio:   0.00%
+    fc_subtype: 1     count: 14    ratio:   0.00%
+    fc_subtype: 11    count: 12    ratio:   0.00%
+    fc_subtype: 13    count: 12    ratio:   0.00%
+    fc_subtype: 10    count: 8     ratio:   0.00%
+    fc_subtype: 9     count: 16    ratio:   0.00%
+    fc_subtype: 15    count: 8     ratio:   0.00%
+ 
+ 
+fc_ds: 0x02  count: 37314 ratio:   9.91%
+  fc_type: 0     count: 532   ratio:   0.14%
+    fc_subtype: 10    count: 22    ratio:   0.01%
+    fc_subtype: 13    count: 22    ratio:   0.01%
+    fc_subtype: 6     count: 30    ratio:   0.01%
+    fc_subtype: 1     count: 36    ratio:   0.01%
+    fc_subtype: 15    count: 34    ratio:   0.01%
+    fc_subtype: 14    count: 22    ratio:   0.01%
+    fc_subtype: 8     count: 158   ratio:   0.04%
+    fc_subtype: 11    count: 12    ratio:   0.00%
+    fc_subtype: 7     count: 14    ratio:   0.00%
+    fc_subtype: 5     count: 30    ratio:   0.01%
+    fc_subtype: 2     count: 20    ratio:   0.01%
+    fc_subtype: 0     count: 36    ratio:   0.01%
+    fc_subtype: 12    count: 36    ratio:   0.01%
+    fc_subtype: 9     count: 22    ratio:   0.01%
+    fc_subtype: 3     count: 24    ratio:   0.01%
+    fc_subtype: 4     count: 14    ratio:   0.00%
+ 
+  fc_type: 2     count: 35928 ratio:   9.54%
+    fc_subtype: 8     count: 34924 ratio:   9.27%
+    fc_subtype: 9     count: 70    ratio:   0.02%
+    fc_subtype: 12    count: 82    ratio:   0.02%
+    fc_subtype: 10    count: 84    ratio:   0.02%
+    fc_subtype: 13    count: 16    ratio:   0.00%
+    fc_subtype: 15    count: 14    ratio:   0.00%
+    fc_subtype: 1     count: 44    ratio:   0.01%
+    fc_subtype: 0     count: 414   ratio:   0.11%
+    fc_subtype: 7     count: 36    ratio:   0.01%
+    fc_subtype: 14    count: 12    ratio:   0.00%
+    fc_subtype: 4     count: 112   ratio:   0.03%
+    fc_subtype: 3     count: 20    ratio:   0.01%
+    fc_subtype: 11    count: 14    ratio:   0.00%
+    fc_subtype: 6     count: 42    ratio:   0.01%
+    fc_subtype: 2     count: 26    ratio:   0.01%
+    fc_subtype: 5     count: 18    ratio:   0.00%
+ 
+  fc_type: 1     count: 854   ratio:   0.23%
+    fc_subtype: 3     count: 110   ratio:   0.03%
+    fc_subtype: 12    count: 58    ratio:   0.02%
+    fc_subtype: 1     count: 72    ratio:   0.02%
+    fc_subtype: 11    count: 94    ratio:   0.02%
+    fc_subtype: 13    count: 62    ratio:   0.02%
+    fc_subtype: 9     count: 146   ratio:   0.04%
+    fc_subtype: 8     count: 72    ratio:   0.02%
+    fc_subtype: 2     count: 52    ratio:   0.01%
+    fc_subtype: 5     count: 18    ratio:   0.00%
+    fc_subtype: 10    count: 32    ratio:   0.01%
+    fc_subtype: 7     count: 6     ratio:   0.00%
+    fc_subtype: 15    count: 52    ratio:   0.01%
+    fc_subtype: 14    count: 26    ratio:   0.01%
+    fc_subtype: 0     count: 26    ratio:   0.01%
+    fc_subtype: 4     count: 28    ratio:   0.01%
+ 
+ 
+fc_ds: 0x03  count: 1176  ratio:   0.31%
+  fc_type: 0     count: 330   ratio:   0.09%
+    fc_subtype: 2     count: 20    ratio:   0.01%
+    fc_subtype: 7     count: 6     ratio:   0.00%
+    fc_subtype: 15    count: 30    ratio:   0.01%
+    fc_subtype: 8     count: 48    ratio:   0.01%
+    fc_subtype: 13    count: 18    ratio:   0.00%
+    fc_subtype: 10    count: 16    ratio:   0.00%
+    fc_subtype: 4     count: 18    ratio:   0.00%
+    fc_subtype: 6     count: 26    ratio:   0.01%
+    fc_subtype: 12    count: 22    ratio:   0.01%
+    fc_subtype: 11    count: 24    ratio:   0.01%
+    fc_subtype: 1     count: 14    ratio:   0.00%
+    fc_subtype: 14    count: 16    ratio:   0.00%
+    fc_subtype: 9     count: 26    ratio:   0.01%
+    fc_subtype: 3     count: 14    ratio:   0.00%
+    fc_subtype: 5     count: 18    ratio:   0.00%
+    fc_subtype: 0     count: 14    ratio:   0.00%
+ 
+  fc_type: 1     count: 558   ratio:   0.15%
+    fc_subtype: 0     count: 32    ratio:   0.01%
+    fc_subtype: 11    count: 64    ratio:   0.02%
+    fc_subtype: 4     count: 36    ratio:   0.01%
+    fc_subtype: 15    count: 32    ratio:   0.01%
+    fc_subtype: 9     count: 72    ratio:   0.02%
+    fc_subtype: 2     count: 38    ratio:   0.01%
+    fc_subtype: 7     count: 20    ratio:   0.01%
+    fc_subtype: 10    count: 36    ratio:   0.01%
+    fc_subtype: 8     count: 46    ratio:   0.01%
+    fc_subtype: 1     count: 30    ratio:   0.01%
+    fc_subtype: 3     count: 28    ratio:   0.01%
+    fc_subtype: 5     count: 24    ratio:   0.01%
+    fc_subtype: 13    count: 40    ratio:   0.01%
+    fc_subtype: 12    count: 46    ratio:   0.01%
+    fc_subtype: 14    count: 14    ratio:   0.00%
+ 
+  fc_type: 2     count: 288   ratio:   0.08%
+    fc_subtype: 5     count: 18    ratio:   0.00%
+    fc_subtype: 7     count: 32    ratio:   0.01%
+    fc_subtype: 9     count: 28    ratio:   0.01%
+    fc_subtype: 0     count: 26    ratio:   0.01%
+    fc_subtype: 2     count: 8     ratio:   0.00%
+    fc_subtype: 13    count: 14    ratio:   0.00%
+    fc_subtype: 8     count: 66    ratio:   0.02%
+    fc_subtype: 1     count: 10    ratio:   0.00%
+    fc_subtype: 4     count: 10    ratio:   0.00%
+    fc_subtype: 11    count: 10    ratio:   0.00%
+    fc_subtype: 15    count: 4     ratio:   0.00%
+    fc_subtype: 12    count: 16    ratio:   0.00%
+    fc_subtype: 10    count: 18    ratio:   0.00%
+    fc_subtype: 6     count: 8     ratio:   0.00%
+    fc_subtype: 3     count: 14    ratio:   0.00%
+    fc_subtype: 14    count: 6     ratio:   0.00%

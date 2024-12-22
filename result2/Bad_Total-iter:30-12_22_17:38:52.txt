@@ -1,0 +1,77 @@
+已解析 1000个数据包
+已解析 2000个数据包
+已解析 3000个数据包
+已解析 4000个数据包
+已解析 5000个数据包
+已解析 6000个数据包
+已解析 7000个数据包
+已解析 8000个数据包
+已解析 9000个数据包
+已解析 10000个数据包
+已解析 11000个数据包
+已解析 12000个数据包
+已解析 13000个数据包
+已解析 14000个数据包
+已解析 15000个数据包
+已解析 16000个数据包
+已解析 17000个数据包
+已解析 18000个数据包
+已解析 19000个数据包
+已解析 20000个数据包
+已解析 21000个数据包
+已解析 22000个数据包
+已解析 23000个数据包
+已解析 24000个数据包
+已解析 25000个数据包
+已解析 26000个数据包
+已解析 27000个数据包
+已解析 28000个数据包
+已解析 29000个数据包
+已解析 30000个数据包
+total_packets:  29999
+total_retry:  1383
+retry ratio:  4.61015367178906
+DA
+	fc_ds: 0x00  count: 372   ratio:  26.90%
+		bssid: None              count: 123   ratio:   8.89%
+			da: None              count: 123   ratio:   8.89%
+
+
+
+	fc_ds: 0x01  count: 481   ratio:  34.78%
+		bssid: a8:58:40:de:fa:b2 count: 259   ratio:  18.73%
+			da: a8:58:40:de:fa:b2 count: 253   ratio:  18.29%
+
+
+
+	fc_ds: 0x02  count: 463   ratio:  33.48%
+		bssid: a8:58:40:5b:82:32 count: 126   ratio:   9.11%
+			da: dc:97:ba:f2:b0:48 count: 81    ratio:   5.86%
+
+
+
+	fc_ds: 0x03  count: 67    ratio:   4.84%
+
+
+SA
+	fc_ds: 0x00  count: 372   ratio:  26.90%
+		bssid: None              count: 123   ratio:   8.89%
+			sa: None              count: 123   ratio:   8.89%
+
+
+
+	fc_ds: 0x01  count: 481   ratio:  34.78%
+		bssid: a8:58:40:de:fa:b2 count: 259   ratio:  18.73%
+			sa: 72:76:86:7d:40:11 count: 121   ratio:   8.75%
+
+
+
+	fc_ds: 0x02  count: 463   ratio:  33.48%
+		bssid: a8:58:40:5b:82:32 count: 126   ratio:   9.11%
+			sa: 90:03:25:b9:7f:06 count: 81    ratio:   5.86%
+
+
+
+	fc_ds: 0x03  count: 67    ratio:   4.84%
+
+

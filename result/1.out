@@ -1,0 +1,1745 @@
+已解析 1000个数据包
+fc_ds: 0x01  count: 105   ratio:  10.51%
+  fc_type: 2     count: 103   ratio:  10.31%
+    fc_subtype: 8     count: 46    ratio:   4.60%
+    fc_subtype: 4     count: 23    ratio:   2.30%
+    fc_subtype: 12    count: 32    ratio:   3.20%
+    fc_subtype: 9     count: 1     ratio:   0.10%
+    fc_subtype: 10    count: 1     ratio:   0.10%
+
+  fc_type: 1     count: 1     ratio:   0.10%
+    fc_subtype: 3     count: 1     ratio:   0.10%
+
+  fc_type: 0     count: 1     ratio:   0.10%
+    fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+fc_ds: 0x00  count: 728   ratio:  72.87%
+  fc_type: 1     count: 580   ratio:  58.06%
+    fc_subtype: 11    count: 128   ratio:  12.81%
+    fc_subtype: 13    count: 92    ratio:   9.21%
+    fc_subtype: 12    count: 163   ratio:  16.32%
+    fc_subtype: 9     count: 197   ratio:  19.72%
+
+  fc_type: 0     count: 145   ratio:  14.51%
+    fc_subtype: 8     count: 113   ratio:  11.31%
+    fc_subtype: 4     count: 7     ratio:   0.70%
+    fc_subtype: 5     count: 23    ratio:   2.30%
+    fc_subtype: 2     count: 1     ratio:   0.10%
+    fc_subtype: 11    count: 1     ratio:   0.10%
+
+  fc_type: 2     count: 3     ratio:   0.30%
+    fc_subtype: 5     count: 1     ratio:   0.10%
+    fc_subtype: 14    count: 1     ratio:   0.10%
+    fc_subtype: 2     count: 1     ratio:   0.10%
+
+
+fc_ds: None  count: 9     ratio:   0.90%
+  fc_type: None  count: 8     ratio:   0.80%
+    fc_subtype: None  count: 8     ratio:   0.80%
+
+  fc_type: 0x0000 count: 1     ratio:   0.10%
+    fc_subtype: None  count: 1     ratio:   0.10%
+
+
+fc_ds: 0x02  count: 155   ratio:  15.52%
+  fc_type: 0     count: 1     ratio:   0.10%
+    fc_subtype: 10    count: 1     ratio:   0.10%
+
+  fc_type: 2     count: 154   ratio:  15.42%
+    fc_subtype: 8     count: 154   ratio:  15.42%
+
+
+fc_ds: 0x03  count: 2     ratio:   0.20%
+  fc_type: 0     count: 1     ratio:   0.10%
+    fc_subtype: 2     count: 1     ratio:   0.10%
+
+  fc_type: 1     count: 1     ratio:   0.10%
+    fc_subtype: 0     count: 1     ratio:   0.10%
+
+
+
+stas2 结果:
+fc_ds: 0x01  count: 105   ratio:  10.61%
+  bssid: a8:58:40:5b:7c:d2 count: 48    ratio:   4.85%
+    da: a8:58:40:5b:7c:d2 count: 19    ratio:   1.92%
+      fc_type: 2     count: 19    ratio:   1.92%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+        fc_subtype: 4     count: 10    ratio:   1.01%
+        fc_subtype: 12    count: 8     ratio:   0.81%
+
+
+    da: 90:03:25:b9:7f:0a count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 90:03:25:b9:7f:0c count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: 90:03:25:b9:7f:0b count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+    da: 90:03:25:b9:7f:0e count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: 90:03:25:bb:7f:0e count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 9     count: 1     ratio:   0.10%
+
+
+    da: 90:03:0d:b1:7f:86 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 9c:74:6f:9f:ce:00 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: None              count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 90:03:25:b9:7f:06 count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 33:33:00:00:00:16 count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 33:33:ff:b9:7f:02 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: ff:ff:ff:ff:ff:ff count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 33:33:00:00:00:fb count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 33:33:00:01:00:03 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 33:33:00:01:00:02 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: None              count: 1     ratio:   0.10%
+    da: None              count: 1     ratio:   0.10%
+      fc_type: 1     count: 1     ratio:   0.10%
+        fc_subtype: 3     count: 1     ratio:   0.10%
+
+
+
+  bssid: 9c:74:67:9f:c6:00 count: 1     ratio:   0.10%
+    da: a8:58:40:53:7c:52 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:7c:d5 count: 10    ratio:   1.01%
+    da: a8:58:40:5b:7c:d5 count: 6     ratio:   0.61%
+      fc_type: 2     count: 6     ratio:   0.61%
+        fc_subtype: 12    count: 6     ratio:   0.61%
+
+
+    da: None              count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 9c:74:6f:9f:ce:00 count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: a8:58:40:5b:7c:d0 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:7c:d0 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 4     count: 2     ratio:   0.20%
+
+
+
+  bssid: bc:fa:b8:2f:d6:cf count: 1     ratio:   0.10%
+    da: bc:fa:b8:2f:d6:cf count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 4     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:78:40:5b:7d:d2 count: 1     ratio:   0.10%
+    da: a8:58:40:59:7c:d2 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 12    count: 1     ratio:   0.10%
+
+
+
+  bssid: 28:50:c0:db:54:52 count: 1     ratio:   0.10%
+    da: 90:03:25:b9:77:0e count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:00:5b:7c:d2 count: 1     ratio:   0.10%
+    da: None              count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:18:40:5b:7c:d2 count: 1     ratio:   0.10%
+    da: 90:02:ad:b9:77:0c count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:c0:5b:7c:d2 count: 1     ratio:   0.10%
+    da: None              count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:db:7c:da count: 1     ratio:   0.10%
+    da: None              count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 10    count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:12 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:88:12 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 12    count: 1     ratio:   0.10%
+        fc_subtype: 4     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:b5 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:88:b5 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 12    count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:88:b2 count: 15    ratio:   1.52%
+    da: a8:58:40:5b:88:b2 count: 15    ratio:   1.52%
+      fc_type: 2     count: 15    ratio:   1.52%
+        fc_subtype: 12    count: 7     ratio:   0.71%
+        fc_subtype: 4     count: 8     ratio:   0.81%
+
+
+
+  bssid: a8:58:40:5b:82:32 count: 16    ratio:   1.62%
+    da: a8:58:40:5b:82:32 count: 6     ratio:   0.61%
+      fc_type: 2     count: 6     ratio:   0.61%
+        fc_subtype: 12    count: 5     ratio:   0.51%
+        fc_subtype: 4     count: 1     ratio:   0.10%
+
+
+    da: 90:03:25:b9:7f:06 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: 90:03:25:b9:7f:0a count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 00:00:00:00:00:00 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 12    count: 2     ratio:   0.20%
+
+
+    da: 90:03:25:b9:7f:03 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: 90:03:25:b9:7f:08 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5a:82:35 count: 1     ratio:   0.10%
+    da: None              count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+
+fc_ds: 0x00  count: 728   ratio:  73.54%
+  bssid: None              count: 580   ratio:  58.59%
+    da: None              count: 580   ratio:  58.59%
+      fc_type: 1     count: 580   ratio:  58.59%
+        fc_subtype: 11    count: 128   ratio:  12.93%
+        fc_subtype: 13    count: 92    ratio:   9.29%
+        fc_subtype: 12    count: 163   ratio:  16.46%
+        fc_subtype: 9     count: 197   ratio:  19.90%
+
+
+
+  bssid: a8:58:40:5b:88:a3 count: 4     ratio:   0.40%
+    da: ff:ff:ff:ff:ff:ff count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 1e:d0:03:93:93:5b count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:87:c2 count: 7     ratio:   0.71%
+    da: ff:ff:ff:ff:ff:ff count: 6     ratio:   0.61%
+      fc_type: 0     count: 6     ratio:   0.61%
+        fc_subtype: 8     count: 6     ratio:   0.61%
+
+
+    da: a0:59:50:5c:c6:0a count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: 3a:ff:e8:2d:56:87 count: 1     ratio:   0.10%
+    da: b7:43:5c:9c:30:ec count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: 94:83:c4:a0:9a:c1 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:de:fa:a3 count: 5     ratio:   0.51%
+    da: ff:ff:ff:ff:ff:ff count: 5     ratio:   0.51%
+      fc_type: 0     count: 5     ratio:   0.51%
+        fc_subtype: 8     count: 5     ratio:   0.51%
+
+
+
+  bssid: a8:58:40:5a:d6:83 count: 6     ratio:   0.61%
+    da: ff:ff:ff:ff:ff:ff count: 6     ratio:   0.61%
+      fc_type: 0     count: 6     ratio:   0.61%
+        fc_subtype: 8     count: 6     ratio:   0.61%
+
+
+
+  bssid: ff:ff:ff:ff:ff:ff count: 7     ratio:   0.71%
+    da: ff:ff:ff:ff:ff:ff count: 7     ratio:   0.71%
+      fc_type: 0     count: 7     ratio:   0.71%
+        fc_subtype: 4     count: 7     ratio:   0.71%
+
+
+
+  bssid: 8c:db:00:00:c4:8a count: 1     ratio:   0.10%
+    da: a0:59:50:5c:c6:0a count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: 9a:bf:72:eb:ba:a1 count: 1     ratio:   0.10%
+    da: d6:54:c4:72:bf:03 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 2     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:87:c0 count: 7     ratio:   0.71%
+    da: a0:59:50:5c:c6:0a count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+    da: ff:ff:ff:ff:ff:ff count: 6     ratio:   0.61%
+      fc_type: 0     count: 6     ratio:   0.61%
+        fc_subtype: 8     count: 6     ratio:   0.61%
+
+
+
+  bssid: a8:58:40:5b:87:c3 count: 4     ratio:   0.40%
+    da: a0:59:50:5c:c6:0a count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+    da: ff:ff:ff:ff:ff:ff count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: 4a:57:c2:03:c2:11 count: 3     ratio:   0.30%
+    da: ff:ff:ff:ff:ff:ff count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: a8:58:40:de:fa:a0 count: 5     ratio:   0.51%
+    da: ff:ff:ff:ff:ff:ff count: 5     ratio:   0.51%
+      fc_type: 0     count: 5     ratio:   0.51%
+        fc_subtype: 8     count: 5     ratio:   0.51%
+
+
+
+  bssid: a8:58:40:5b:88:a0 count: 3     ratio:   0.30%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: 1e:d0:03:93:93:5b count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: e5:72:f2:fb:48:00 count: 1     ratio:   0.10%
+    da: ff:af:e0:a8:ea:ff count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:a2 count: 5     ratio:   0.51%
+    da: ff:ff:ff:ff:ff:ff count: 4     ratio:   0.40%
+      fc_type: 0     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+    da: 1e:d0:03:93:93:5b count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:de:fa:a2 count: 4     ratio:   0.40%
+    da: ff:ff:ff:ff:ff:ff count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: ff:ff:ff:ff:7c:e5 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 11    count: 1     ratio:   0.10%
+
+
+
+  bssid: bf:a8:90:72:c9:77 count: 1     ratio:   0.10%
+    da: 70:3f:00:40:06:99 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5a:d6:82 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: 58:41:20:33:c9:77 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: 98:97:cc:d1:f2:c6 count: 1     ratio:   0.10%
+    da: 3f:46:35:0c:ce:ca count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: d2:08:77:9f:76:8d count: 1     ratio:   0.10%
+    da: bf:ac:19:63:0e:fc count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: e4:72:e2:d0:40:0d count: 1     ratio:   0.10%
+    da: 24:9a:eb:ff:ff:ff count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: c0:4a:1b:e5:64:78 count: 1     ratio:   0.10%
+    da: ff:ff:ff:7e:bb:f0 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: bd:58:9b:1f:9e:d3 count: 1     ratio:   0.10%
+    da: 6e:18:ef:66:7d:b3 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 14    count: 1     ratio:   0.10%
+
+
+
+  bssid: 63:34:9b:1f:9e:c3 count: 1     ratio:   0.10%
+    da: 1b:0c:ee:54:75:b3 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 2     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:7c:d3 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:88:12 count: 1     ratio:   0.10%
+    da: ff:ff:ff:ff:ff:ff count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:7c:d5 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:7c:d0 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:7c:d2 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:88:10 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: ca:66:ea:de:54:bc count: 1     ratio:   0.10%
+    da: c4:03:a8:2d:1b:5d count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:13 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:88:15 count: 1     ratio:   0.10%
+    da: ff:ff:ff:ff:ff:ff count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: bc:fa:b8:2f:d4:59 count: 18    ratio:   1.82%
+    da: ff:ff:ff:ff:ff:ff count: 4     ratio:   0.40%
+      fc_type: 0     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+    da: 9e:06:16:f1:2d:5f count: 14    ratio:   1.41%
+      fc_type: 0     count: 14    ratio:   1.41%
+        fc_subtype: 5     count: 14    ratio:   1.41%
+
+
+
+  bssid: bc:fa:b8:2f:d6:cf count: 3     ratio:   0.30%
+    da: ff:ff:ff:ff:ff:ff count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: bc:fa:b8:2f:db:dd count: 3     ratio:   0.30%
+    da: ff:ff:ff:ff:ff:ff count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: a8:58:40:5b:88:b5 count: 4     ratio:   0.40%
+    da: ff:ff:ff:ff:ff:ff count: 4     ratio:   0.40%
+      fc_type: 0     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+
+  bssid: a8:58:40:5b:88:b0 count: 3     ratio:   0.30%
+    da: ff:ff:ff:ff:ff:ff count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: a8:58:40:5b:88:b2 count: 4     ratio:   0.40%
+    da: ff:ff:ff:ff:ff:ff count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 50:76:af:af:02:8a count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:b3 count: 3     ratio:   0.30%
+    da: ff:ff:ff:ff:ff:ff count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: 94:83:c4:a0:9a:c2 count: 3     ratio:   0.30%
+    da: ff:ff:ff:ff:ff:ff count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: a8:58:40:5b:82:35 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:dd:f2:93 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:82:30 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:dd:f2:95 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:82:32 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:dd:f2:90 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:82:33 count: 2     ratio:   0.20%
+    da: ff:ff:ff:ff:ff:ff count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:dd:f2:92 count: 1     ratio:   0.10%
+    da: ff:ff:ff:ff:ff:ff count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+
+fc_ds: 0x02  count: 155   ratio:  15.66%
+  bssid: 07:c0:2b:0b:7d:a7 count: 1     ratio:   0.10%
+    da: 06:be:99:76:bd:41 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 10    count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:7c:d2 count: 93    ratio:   9.39%
+    da: aa:49:9b:5e:57:df count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 3a:cd:7a:df:26:3d count: 63    ratio:   6.36%
+      fc_type: 2     count: 63    ratio:   6.36%
+        fc_subtype: 8     count: 63    ratio:   6.36%
+
+
+    da: 34:cf:f6:31:41:74 count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: b6:12:b6:ef:8e:74 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 8e:73:f5:31:0f:de count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 9a:bc:b1:0e:5b:b7 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: bc:fa:b8:23:89:37 count: 7     ratio:   0.71%
+      fc_type: 2     count: 7     ratio:   0.71%
+        fc_subtype: 8     count: 7     ratio:   0.71%
+
+
+    da: 3a:f3:e4:57:9a:32 count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+    da: a8:59:5f:2f:42:43 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 1e:c9:1d:55:38:96 count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: ea:99:20:11:49:c3 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: ac:74:b1:03:3e:32 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 50:76:af:af:02:8a count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:7c:d5 count: 9     ratio:   0.91%
+    da: c2:87:b9:a8:d1:d4 count: 9     ratio:   0.91%
+      fc_type: 2     count: 9     ratio:   0.91%
+        fc_subtype: 8     count: 9     ratio:   0.91%
+
+
+
+  bssid: a0:48:40:5b:7c:d2 count: 1     ratio:   0.10%
+    da: 3a:cd:7b:df:26:3d count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a0:58:40:5b:7c:d2 count: 1     ratio:   0.10%
+    da: 3a:cd:7a:df:26:3d count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:7c:d0 count: 1     ratio:   0.10%
+    da: 0e:79:fd:a9:18:c8 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:b2 count: 23    ratio:   2.32%
+    da: bc:fa:b8:36:29:6c count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: d2:da:78:96:87:ec count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: e4:bc:aa:f9:39:90 count: 7     ratio:   0.71%
+      fc_type: 2     count: 7     ratio:   0.71%
+        fc_subtype: 8     count: 7     ratio:   0.71%
+
+
+    da: e8:65:38:80:2b:4b count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 8a:2b:85:ae:2e:98 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 66:97:db:04:5d:d5 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: 4e:c9:dc:0a:d1:8b count: 5     ratio:   0.51%
+      fc_type: 2     count: 5     ratio:   0.51%
+        fc_subtype: 8     count: 5     ratio:   0.51%
+
+
+
+  bssid: a8:58:40:5b:88:b5 count: 2     ratio:   0.20%
+    da: 10:5f:ad:8a:d3:ec count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:88:b0 count: 1     ratio:   0.10%
+    da: b0:b5:c3:da:22:bb count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:82:32 count: 19    ratio:   1.92%
+    da: a0:29:42:3e:6d:1d count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+    da: e4:0d:36:54:74:c8 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: 86:3f:db:35:c4:72 count: 5     ratio:   0.51%
+      fc_type: 2     count: 5     ratio:   0.51%
+        fc_subtype: 8     count: 5     ratio:   0.51%
+
+
+    da: 94:e6:f7:0b:09:9b count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 8e:a6:9e:2e:ec:a2 count: 5     ratio:   0.51%
+      fc_type: 2     count: 5     ratio:   0.51%
+        fc_subtype: 8     count: 5     ratio:   0.51%
+
+
+
+  bssid: a8:58:40:5b:82:35 count: 4     ratio:   0.40%
+    da: 76:ec:b2:29:07:1f count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+
+
+fc_ds: 0x03  count: 2     ratio:   0.20%
+  bssid: 13:9d:16:aa:a6:d9 count: 1     ratio:   0.10%
+    da: 77:6b:42:85:09:d0 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 2     count: 1     ratio:   0.10%
+
+
+
+  bssid: None              count: 1     ratio:   0.10%
+    da: None              count: 1     ratio:   0.10%
+      fc_type: 1     count: 1     ratio:   0.10%
+        fc_subtype: 0     count: 1     ratio:   0.10%
+
+
+
+
+
+stas2 结果:
+fc_ds: 0x01  count: 105   ratio:  10.61%
+  bssid: a8:58:40:5b:7c:d2 count: 48    ratio:   4.85%
+    da: ac:74:b1:03:3e:32 count: 11    ratio:   1.11%
+      fc_type: 2     count: 11    ratio:   1.11%
+        fc_subtype: 8     count: 11    ratio:   1.11%
+
+
+    da: aa:49:9b:5e:57:df count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 4     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 34:cf:f6:31:41:74 count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 3a:f3:e4:57:9a:32 count: 10    ratio:   1.01%
+      fc_type: 2     count: 10    ratio:   1.01%
+        fc_subtype: 12    count: 6     ratio:   0.61%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+    da: ea:99:20:11:49:c3 count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 4     count: 4     ratio:   0.40%
+
+
+    da: 9a:bc:b1:0e:5b:b7 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 4     count: 2     ratio:   0.20%
+
+
+    da: a8:59:5f:2f:42:43 count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 12    count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 3a:cd:7a:df:26:3d count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+    da: 3a:cd:7a:df:26:31 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 9     count: 1     ratio:   0.10%
+
+
+    da: 32:4d:7a:df:2e:39 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 8e:73:f5:31:0f:de count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 3a:cd:7a:9f:26:bd count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: b6:12:b6:ef:8e:74 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 4     count: 1     ratio:   0.10%
+
+
+    da: c2:2f:17:71:80:3c count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 4     count: 2     ratio:   0.20%
+
+
+
+  bssid: None              count: 1     ratio:   0.10%
+    da: None              count: 1     ratio:   0.10%
+      fc_type: 1     count: 1     ratio:   0.10%
+        fc_subtype: 3     count: 1     ratio:   0.10%
+
+
+
+  bssid: 9c:74:67:9f:c6:00 count: 1     ratio:   0.10%
+    da: 3a:cd:7a:db:27:bd count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:7c:d5 count: 10    ratio:   1.01%
+    da: c2:87:b9:a8:d1:d4 count: 10    ratio:   1.01%
+      fc_type: 2     count: 10    ratio:   1.01%
+        fc_subtype: 12    count: 6     ratio:   0.61%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+
+  bssid: a8:58:40:5b:7c:d0 count: 2     ratio:   0.20%
+    da: 0e:79:fd:a9:18:c8 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 4     count: 2     ratio:   0.20%
+
+
+
+  bssid: bc:fa:b8:2f:d6:cf count: 1     ratio:   0.10%
+    da: cc:08:fa:7c:4d:e7 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 4     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:78:40:5b:7d:d2 count: 1     ratio:   0.10%
+    da: 38:cd:7a:df:a6:3d count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 12    count: 1     ratio:   0.10%
+
+
+
+  bssid: 28:50:c0:db:54:52 count: 1     ratio:   0.10%
+    da: 32:cd:70:df:6e:3d count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:00:5b:7c:d2 count: 1     ratio:   0.10%
+    da: 3a:cd:7a:df:26:3d count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:18:40:5b:7c:d2 count: 1     ratio:   0.10%
+    da: 3a:cd:7a:5f:26:3d count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:c0:5b:7c:d2 count: 1     ratio:   0.10%
+    da: 3a:cd:7a:df:26:bd count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:db:7c:da count: 1     ratio:   0.10%
+    da: 3a:cd:7a:df:2e:3d count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 10    count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:12 count: 2     ratio:   0.20%
+    da: c4:03:a8:2d:1b:5d count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 12    count: 1     ratio:   0.10%
+
+
+    da: ce:3c:a4:5f:3f:6e count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 4     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:b5 count: 2     ratio:   0.20%
+    da: 10:5f:ad:8a:d3:ec count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 12    count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:88:b2 count: 15    ratio:   1.52%
+    da: e4:bc:aa:f9:39:90 count: 5     ratio:   0.51%
+      fc_type: 2     count: 5     ratio:   0.51%
+        fc_subtype: 12    count: 5     ratio:   0.51%
+
+
+    da: e8:65:38:80:2b:4b count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 12    count: 2     ratio:   0.20%
+
+
+    da: d2:da:78:96:87:ec count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 4     count: 2     ratio:   0.20%
+
+
+    da: c0:35:32:1a:07:cd count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 4     count: 2     ratio:   0.20%
+
+
+    da: 4e:c9:dc:0a:d1:8b count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 4     count: 2     ratio:   0.20%
+
+
+    da: 8a:2b:85:ae:2e:98 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 4     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:82:32 count: 16    ratio:   1.62%
+    da: 8e:a6:9e:2e:ec:a2 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 12    count: 2     ratio:   0.20%
+
+
+    da: dc:97:ba:f2:b0:48 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: e4:0d:36:54:74:c8 count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 94:e6:f7:0b:09:9b count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 12    count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: a2:c6:34:c1:36:37 count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 12    count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 42:59:4e:98:82:14 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 4     count: 1     ratio:   0.10%
+
+
+    da: a0:29:42:3e:6d:1d count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5a:82:35 count: 1     ratio:   0.10%
+    da: 77:ec:b6:a9:83:1f count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+
+fc_ds: 0x00  count: 728   ratio:  73.54%
+  bssid: None              count: 580   ratio:  58.59%
+    da: None              count: 580   ratio:  58.59%
+      fc_type: 1     count: 580   ratio:  58.59%
+        fc_subtype: 11    count: 128   ratio:  12.93%
+        fc_subtype: 13    count: 92    ratio:   9.29%
+        fc_subtype: 12    count: 163   ratio:  16.46%
+        fc_subtype: 9     count: 197   ratio:  19.90%
+
+
+
+  bssid: a8:58:40:5b:88:a3 count: 4     ratio:   0.40%
+    da: a8:58:40:5b:88:a3 count: 4     ratio:   0.40%
+      fc_type: 0     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:87:c2 count: 7     ratio:   0.71%
+    da: a8:58:40:5b:87:c2 count: 7     ratio:   0.71%
+      fc_type: 0     count: 7     ratio:   0.71%
+        fc_subtype: 8     count: 6     ratio:   0.61%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: 3a:ff:e8:2d:56:87 count: 1     ratio:   0.10%
+    da: bc:56:42:ec:1c:96 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: 94:83:c4:a0:9a:c1 count: 2     ratio:   0.20%
+    da: 94:83:c4:a0:9a:c1 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:de:fa:a3 count: 5     ratio:   0.51%
+    da: a8:58:40:de:fa:a3 count: 5     ratio:   0.51%
+      fc_type: 0     count: 5     ratio:   0.51%
+        fc_subtype: 8     count: 5     ratio:   0.51%
+
+
+
+  bssid: a8:58:40:5a:d6:83 count: 6     ratio:   0.61%
+    da: a8:58:40:5a:d6:83 count: 6     ratio:   0.61%
+      fc_type: 0     count: 6     ratio:   0.61%
+        fc_subtype: 8     count: 6     ratio:   0.61%
+
+
+
+  bssid: ff:ff:ff:ff:ff:ff count: 7     ratio:   0.71%
+    da: a0:59:50:5c:c6:0a count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 4     count: 1     ratio:   0.10%
+
+
+    da: 1e:d0:03:93:93:5b count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 4     count: 2     ratio:   0.20%
+
+
+    da: ac:19:8e:0f:70:94 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 4     count: 1     ratio:   0.10%
+
+
+    da: 8a:4c:84:6d:f8:4e count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 4     count: 2     ratio:   0.20%
+
+
+    da: 50:76:af:af:02:8a count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 4     count: 1     ratio:   0.10%
+
+
+
+  bssid: 8c:db:00:00:c4:8a count: 1     ratio:   0.10%
+    da: 58:41:44:00:80:59 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: 9a:bf:72:eb:ba:a1 count: 1     ratio:   0.10%
+    da: 2b:ba:48:72:72:9a count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 2     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:87:c0 count: 7     ratio:   0.71%
+    da: a8:58:40:5b:87:c0 count: 7     ratio:   0.71%
+      fc_type: 0     count: 7     ratio:   0.71%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 6     ratio:   0.61%
+
+
+
+  bssid: a8:58:40:5b:87:c3 count: 4     ratio:   0.40%
+    da: a8:58:40:5b:87:c3 count: 4     ratio:   0.40%
+      fc_type: 0     count: 4     ratio:   0.40%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: 4a:57:c2:03:c2:11 count: 3     ratio:   0.30%
+    da: 4a:57:c2:03:c2:11 count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: a8:58:40:de:fa:a0 count: 5     ratio:   0.51%
+    da: a8:58:40:de:fa:a0 count: 5     ratio:   0.51%
+      fc_type: 0     count: 5     ratio:   0.51%
+        fc_subtype: 8     count: 5     ratio:   0.51%
+
+
+
+  bssid: a8:58:40:5b:88:a0 count: 3     ratio:   0.30%
+    da: a8:58:40:5b:88:a0 count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: e5:72:f2:fb:48:00 count: 1     ratio:   0.10%
+    da: e4:72:e2:a0:35:c5 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:a2 count: 5     ratio:   0.51%
+    da: a8:58:40:5b:88:a2 count: 5     ratio:   0.51%
+      fc_type: 0     count: 5     ratio:   0.51%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:de:fa:a2 count: 4     ratio:   0.40%
+    da: a8:58:40:de:fa:a2 count: 4     ratio:   0.40%
+      fc_type: 0     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+        fc_subtype: 11    count: 1     ratio:   0.10%
+
+
+
+  bssid: bf:a8:90:72:c9:77 count: 1     ratio:   0.10%
+    da: 1d:dc:06:0c:4f:86 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5a:d6:82 count: 2     ratio:   0.20%
+    da: a8:58:40:5a:d6:82 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: 58:41:20:33:c9:77 count: 2     ratio:   0.20%
+    da: 58:41:20:33:c9:77 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: 98:97:cc:d1:f2:c6 count: 1     ratio:   0.10%
+    da: 98:a4:8b:5a:96:c6 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: d2:08:77:9f:76:8d count: 1     ratio:   0.10%
+    da: 19:ab:02:79:7f:dd count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: e4:72:e2:d0:40:0d count: 1     ratio:   0.10%
+    da: e4:72:e2:d0:49:00 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: c0:4a:1b:e5:64:78 count: 1     ratio:   0.10%
+    da: 2d:df:48:70:44:f8 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: bd:58:9b:1f:9e:d3 count: 1     ratio:   0.10%
+    da: ee:7a:b2:ac:c8:71 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 14    count: 1     ratio:   0.10%
+
+
+
+  bssid: 63:34:9b:1f:9e:c3 count: 1     ratio:   0.10%
+    da: ee:7a:77:a7:d8:e2 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 2     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:7c:d3 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:7c:d3 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:88:12 count: 1     ratio:   0.10%
+    da: a8:58:40:5b:88:12 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:7c:d5 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:7c:d5 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:7c:d0 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:7c:d0 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:7c:d2 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:7c:d2 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:88:10 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:88:10 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: ca:66:ea:de:54:bc count: 1     ratio:   0.10%
+    da: 4d:a2:f3:49:bb:bb count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:13 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:88:13 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:88:15 count: 1     ratio:   0.10%
+    da: a8:58:40:5b:88:15 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: bc:fa:b8:2f:d4:59 count: 18    ratio:   1.82%
+    da: bc:fa:b8:2f:d4:59 count: 18    ratio:   1.82%
+      fc_type: 0     count: 18    ratio:   1.82%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+        fc_subtype: 5     count: 14    ratio:   1.41%
+
+
+
+  bssid: bc:fa:b8:2f:d6:cf count: 3     ratio:   0.30%
+    da: bc:fa:b8:2f:d6:cf count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: bc:fa:b8:2f:db:dd count: 3     ratio:   0.30%
+    da: bc:fa:b8:2f:db:dd count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: a8:58:40:5b:88:b5 count: 4     ratio:   0.40%
+    da: a8:58:40:5b:88:b5 count: 4     ratio:   0.40%
+      fc_type: 0     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+
+  bssid: a8:58:40:5b:88:b0 count: 3     ratio:   0.30%
+    da: a8:58:40:5b:88:b0 count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: a8:58:40:5b:88:b2 count: 4     ratio:   0.40%
+    da: a8:58:40:5b:88:b2 count: 4     ratio:   0.40%
+      fc_type: 0     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+        fc_subtype: 5     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:b3 count: 3     ratio:   0.30%
+    da: a8:58:40:5b:88:b3 count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: 94:83:c4:a0:9a:c2 count: 3     ratio:   0.30%
+    da: 94:83:c4:a0:9a:c2 count: 3     ratio:   0.30%
+      fc_type: 0     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: a8:58:40:5b:82:35 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:82:35 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:dd:f2:93 count: 2     ratio:   0.20%
+    da: a8:58:40:dd:f2:93 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:82:30 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:82:30 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:dd:f2:95 count: 2     ratio:   0.20%
+    da: a8:58:40:dd:f2:95 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:82:32 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:82:32 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:dd:f2:90 count: 2     ratio:   0.20%
+    da: a8:58:40:dd:f2:90 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:82:33 count: 2     ratio:   0.20%
+    da: a8:58:40:5b:82:33 count: 2     ratio:   0.20%
+      fc_type: 0     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:dd:f2:92 count: 1     ratio:   0.10%
+    da: a8:58:40:dd:f2:92 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+
+fc_ds: 0x02  count: 155   ratio:  15.66%
+  bssid: 07:c0:2b:0b:7d:a7 count: 1     ratio:   0.10%
+    da: b3:20:39:93:02:cc count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 10    count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:7c:d2 count: 93    ratio:   9.39%
+    da: 90:03:25:b9:7f:06 count: 5     ratio:   0.51%
+      fc_type: 2     count: 5     ratio:   0.51%
+        fc_subtype: 8     count: 5     ratio:   0.51%
+
+
+    da: 90:03:25:b9:7f:0e count: 59    ratio:   5.96%
+      fc_type: 2     count: 59    ratio:   5.96%
+        fc_subtype: 8     count: 59    ratio:   5.96%
+
+
+    da: 9c:74:6f:9f:ce:00 count: 12    ratio:   1.21%
+      fc_type: 2     count: 12    ratio:   1.21%
+        fc_subtype: 8     count: 12    ratio:   1.21%
+
+
+    da: 90:03:25:b9:7f:0a count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 90:03:25:b9:7f:02 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: 90:03:25:b9:7f:0c count: 8     ratio:   0.81%
+      fc_type: 2     count: 8     ratio:   0.81%
+        fc_subtype: 8     count: 8     ratio:   0.81%
+
+
+    da: 90:03:25:b9:7f:0b count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+
+  bssid: a8:58:40:5b:7c:d5 count: 9     ratio:   0.91%
+    da: 90:03:25:b9:7f:0b count: 8     ratio:   0.81%
+      fc_type: 2     count: 8     ratio:   0.81%
+        fc_subtype: 8     count: 8     ratio:   0.81%
+
+
+    da: 9c:74:6f:9f:ce:00 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a0:48:40:5b:7c:d2 count: 1     ratio:   0.10%
+    da: 90:03:25:b9:7f:0e count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a0:58:40:5b:7c:d2 count: 1     ratio:   0.10%
+    da: 90:03:25:b9:7f:0e count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:7c:d0 count: 1     ratio:   0.10%
+    da: 90:03:25:b9:7f:05 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:88:b2 count: 23    ratio:   2.32%
+    da: 90:03:25:b9:7f:04 count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 90:03:25:b9:7f:0d count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: 90:03:25:b9:7f:0c count: 7     ratio:   0.71%
+      fc_type: 2     count: 7     ratio:   0.71%
+        fc_subtype: 8     count: 7     ratio:   0.71%
+
+
+    da: 90:03:25:b9:7f:09 count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+    da: 90:03:25:b9:7f:06 count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+    da: 90:03:25:b9:7f:0b count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: 90:03:25:b9:7f:0e count: 5     ratio:   0.51%
+      fc_type: 2     count: 5     ratio:   0.51%
+        fc_subtype: 8     count: 5     ratio:   0.51%
+
+
+
+  bssid: a8:58:40:5b:88:b5 count: 2     ratio:   0.20%
+    da: 90:03:25:b9:7f:04 count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+
+  bssid: a8:58:40:5b:88:b0 count: 1     ratio:   0.10%
+    da: 90:03:25:b9:7f:0c count: 1     ratio:   0.10%
+      fc_type: 2     count: 1     ratio:   0.10%
+        fc_subtype: 8     count: 1     ratio:   0.10%
+
+
+
+  bssid: a8:58:40:5b:82:32 count: 19    ratio:   1.92%
+    da: 90:03:25:b9:7f:08 count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+    da: 90:03:25:b9:7f:0a count: 2     ratio:   0.20%
+      fc_type: 2     count: 2     ratio:   0.20%
+        fc_subtype: 8     count: 2     ratio:   0.20%
+
+
+    da: 90:03:25:b9:7f:0b count: 10    ratio:   1.01%
+      fc_type: 2     count: 10    ratio:   1.01%
+        fc_subtype: 8     count: 10    ratio:   1.01%
+
+
+    da: 90:03:25:b9:7f:03 count: 3     ratio:   0.30%
+      fc_type: 2     count: 3     ratio:   0.30%
+        fc_subtype: 8     count: 3     ratio:   0.30%
+
+
+
+  bssid: a8:58:40:5b:82:35 count: 4     ratio:   0.40%
+    da: 90:03:25:b9:7f:0c count: 4     ratio:   0.40%
+      fc_type: 2     count: 4     ratio:   0.40%
+        fc_subtype: 8     count: 4     ratio:   0.40%
+
+
+
+
+fc_ds: 0x03  count: 2     ratio:   0.20%
+  bssid: 13:9d:16:aa:a6:d9 count: 1     ratio:   0.10%
+    da: 5c:c1:e7:9b:fd:b1 count: 1     ratio:   0.10%
+      fc_type: 0     count: 1     ratio:   0.10%
+        fc_subtype: 2     count: 1     ratio:   0.10%
+
+
+
+  bssid: None              count: 1     ratio:   0.10%
+    da: None              count: 1     ratio:   0.10%
+      fc_type: 1     count: 1     ratio:   0.10%
+        fc_subtype: 0     count: 1     ratio:   0.10%
+
+
+
+
+

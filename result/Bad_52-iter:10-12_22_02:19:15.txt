@@ -1,0 +1,47 @@
+已解析 1000个数据包
+已解析 2000个数据包
+已解析 3000个数据包
+已解析 4000个数据包
+已解析 5000个数据包
+已解析 6000个数据包
+已解析 7000个数据包
+已解析 8000个数据包
+已解析 9000个数据包
+已解析 10000个数据包
+total_packets:  9999
+total_retry:  0
+fc_ds: 0x02  count: 1910  ratio:  19.10%
+  fc_type: 2     count: 1889  ratio:  18.89%
+    fc_subtype: 8     count: 1881  ratio:  18.81%
+
+
+fc_ds: 0x00  count: 6319  ratio:  63.20%
+  fc_type: 1     count: 5539  ratio:  55.40%
+    fc_subtype: 13    count: 561   ratio:   5.61%
+    fc_subtype: 11    count: 1518  ratio:  15.18%
+    fc_subtype: 12    count: 1243  ratio:  12.43%
+    fc_subtype: 9     count: 1714  ratio:  17.14%
+    fc_subtype: 8     count: 500   ratio:   5.00%
+
+  fc_type: 0     count: 777   ratio:   7.77%
+    fc_subtype: 8     count: 574   ratio:   5.74%
+    fc_subtype: 5     count: 180   ratio:   1.80%
+    fc_subtype: 4     count: 17    ratio:   0.17%
+
+
+fc_ds: 0x01  count: 1756  ratio:  17.56%
+  fc_type: 2     count: 1741  ratio:  17.41%
+    fc_subtype: 8     count: 1478  ratio:  14.78%
+    fc_subtype: 4     count: 88    ratio:   0.88%
+    fc_subtype: 12    count: 167   ratio:   1.67%
+
+
+fc_ds: 0x03  count: 12    ratio:   0.12%
+
+fc_ds: None  count: 2     ratio:   0.02%
+
+
+DA
+
+SA
+

@@ -1,0 +1,116 @@
+已解析 1000个数据包
+已解析 2000个数据包
+已解析 3000个数据包
+已解析 4000个数据包
+已解析 5000个数据包
+已解析 6000个数据包
+已解析 7000个数据包
+已解析 8000个数据包
+已解析 9000个数据包
+已解析 10000个数据包
+已解析 11000个数据包
+已解析 12000个数据包
+已解析 13000个数据包
+已解析 14000个数据包
+已解析 15000个数据包
+已解析 16000个数据包
+已解析 17000个数据包
+已解析 18000个数据包
+已解析 19000个数据包
+total_packets:  19074
+total_retry:  1628
+retry ratio:  8.535178777393309
+DA
+	fc_ds: 0x00  count: 776   ratio:  47.67%
+		bssid: a8:58:40:5b:88:a2 count: 68    ratio:   4.18%
+
+		bssid: a8:58:40:de:fa:a0 count: 68    ratio:   4.18%
+
+		bssid: a8:58:40:de:fa:a2 count: 80    ratio:   4.91%
+
+		bssid: a8:58:40:5a:d6:82 count: 60    ratio:   3.69%
+
+		bssid: a8:58:40:5a:d6:80 count: 62    ratio:   3.81%
+
+
+	fc_ds: 0x02  count: 244   ratio:  14.99%
+		bssid: a8:58:40:5b:87:c2 count: 126   ratio:   7.74%
+			da: ea:bf:d2:1e:48:45 count: 122   ratio:   7.49%
+				fc_type: 2     count: 122   ratio:   7.49%
+					fc_subtype: 8     count: 122   ratio:   7.49%
+
+
+
+
+	fc_ds: 0x01  count: 578   ratio:  35.50%
+		bssid: 94:83:c4:a0:9a:c1 count: 512   ratio:  31.45%
+			da: 94:83:c4:a0:9a:c1 count: 450   ratio:  27.64%
+				fc_type: 2     count: 450   ratio:  27.64%
+					fc_subtype: 4     count: 450   ratio:  27.64%
+
+
+
+
+	fc_ds: 0x03  count: 30    ratio:   1.84%
+
+
+SA
+	fc_ds: 0x00  count: 776   ratio:  47.67%
+		bssid: a8:58:40:5b:88:a2 count: 68    ratio:   4.18%
+			sa: a8:58:40:5b:88:a2 count: 68    ratio:   4.18%
+				fc_type: 0     count: 68    ratio:   4.18%
+					fc_subtype: 5     count: 68    ratio:   4.18%
+
+
+
+		bssid: a8:58:40:de:fa:a0 count: 68    ratio:   4.18%
+			sa: a8:58:40:de:fa:a0 count: 68    ratio:   4.18%
+				fc_type: 0     count: 68    ratio:   4.18%
+					fc_subtype: 5     count: 68    ratio:   4.18%
+
+
+
+		bssid: a8:58:40:de:fa:a2 count: 80    ratio:   4.91%
+			sa: a8:58:40:de:fa:a2 count: 80    ratio:   4.91%
+				fc_type: 0     count: 80    ratio:   4.91%
+					fc_subtype: 5     count: 80    ratio:   4.91%
+
+
+
+		bssid: a8:58:40:5a:d6:82 count: 60    ratio:   3.69%
+			sa: a8:58:40:5a:d6:82 count: 60    ratio:   3.69%
+				fc_type: 0     count: 60    ratio:   3.69%
+					fc_subtype: 5     count: 60    ratio:   3.69%
+
+
+
+		bssid: a8:58:40:5a:d6:80 count: 62    ratio:   3.81%
+			sa: a8:58:40:5a:d6:80 count: 62    ratio:   3.81%
+				fc_type: 0     count: 60    ratio:   3.69%
+					fc_subtype: 5     count: 60    ratio:   3.69%
+
+
+
+
+	fc_ds: 0x02  count: 244   ratio:  14.99%
+		bssid: a8:58:40:5b:87:c2 count: 126   ratio:   7.74%
+			sa: 90:03:25:b9:7f:03 count: 116   ratio:   7.13%
+				fc_type: 2     count: 116   ratio:   7.13%
+					fc_subtype: 8     count: 116   ratio:   7.13%
+
+
+
+
+	fc_ds: 0x01  count: 578   ratio:  35.50%
+		bssid: 94:83:c4:a0:9a:c1 count: 512   ratio:  31.45%
+			sa: e6:3a:1b:99:41:87 count: 476   ratio:  29.24%
+				fc_type: 2     count: 476   ratio:  29.24%
+					fc_subtype: 4     count: 474   ratio:  29.12%
+					fc_subtype: 8     count: 2     ratio:   0.12%
+
+
+
+
+	fc_ds: 0x03  count: 30    ratio:   1.84%
+
+
